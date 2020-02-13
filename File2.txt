@@ -1,5 +1,7 @@
 This file for  CR1
 
-Change to test push on remote repo from local repo
+1. change to test push on remote repo from local repo
 
-Change on remote repo by team mate for testing pull/fetch
+2. change on remote repo by team mate for testing pull/fetch
+
+3. change by team mate to test rebase on remote repo
